@@ -59,12 +59,6 @@ Complete walkthrough is available on YouTube by **Rishabh Mishra**:
 
 ---
 
-## 📌 Author
-
-- [Your Name or GitHub Profile](https://github.com/YourUsername)
-
----
-
 ## 📄 License
 
 This project is for educational purposes. Feel free to fork and modify it for your learning or portfolio.
